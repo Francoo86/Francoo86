@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I like developing things related to backend and game dev, mostly with these languages and frameworks. 
+I like developing things related to backend and game dev, mostly with these technologies.
 
 [![My Skills](https://skillicons.dev/icons?i=python,symfony,php,lua,cs,cpp,postgres,mysql,unity,js)](https://skillicons.dev)
 
