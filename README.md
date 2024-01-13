@@ -1,4 +1,8 @@
-### TODO: What is this?
+# Hey there 👋
+
+I like developing things related to backend and game dev, mostly with these languages and frameworks. 
+
+[![My Skills](https://skillicons.dev/icons?i=python,symfony,php,lua,cs,cpp,postgres,mysql,unity,js)](https://skillicons.dev)
 
 <!--
 **Francoo86/Francoo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
